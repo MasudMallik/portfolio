@@ -19,7 +19,7 @@ with st.expander("Sgpas"):
     col1.write("sem3: ")
     col2.write("9.05")
     col1.write("sem4: ")
-    col2.write("8.64")
+    col2.write("8.05")
 st.write("\n")
 st.html('''<h1>Higher Secondary(12th),Pure science </h1>''')
 st.text(''' School Name:     Collins Institite  
@@ -70,3 +70,4 @@ with st.expander("Grades"):
     col2.write("A+")
     col1.write("GEOGRAPHY: ")
     col2.write("AA")
+
